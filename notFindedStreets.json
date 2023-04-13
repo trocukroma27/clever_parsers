@@ -1,0 +1,20 @@
+[
+    {
+        "old_name_ua": "Кузбаський",
+        "type_ua": "пров.",
+        "new_name_ua": "Токмацький",
+        "new_name_ru": "Токмакский",
+        "new_name_en": "Tokmatskyi",
+        "type_en": "ln.",
+        "district": "Деснянський"
+    },
+    {
+        "old_name_ua": "Мічуріна",
+        "type_ua": "вул.",
+        "new_name_ua": "Микільсько-Хутірська",
+        "new_name_ru": "Никольско-Хуторская",
+        "new_name_en": "Mykilsko-Khutirska",
+        "type_en": "st.",
+        "district": "Оболонський"
+    }
+]

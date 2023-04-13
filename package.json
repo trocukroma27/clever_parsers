@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "testConnection": "node index.js",
+    "rename": "node scripts/street_rename.js"
   },
   "author": "",
   "license": "ISC",
